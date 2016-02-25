@@ -15,7 +15,7 @@ In order to collaborate, please, read the [following guide][guide]
 Code submitted
 --------------
 
-Available code (chronological order)
+Available code (in a chronological order)
 
 * Mar 25, 2013 [Creating Dynamic XML Sitemaps using PHP][php-sitemaps] (by [Christos Pontikis][pontikis])
 * Mar 25, 2013 [PHP Login using Facebook][php-fb-login] (by [David Carr][carr])
